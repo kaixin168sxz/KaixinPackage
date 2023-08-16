@@ -17,8 +17,8 @@ DESCRIPTION = 'A Python package, a lot of features are integrated.'
 URL = 'https://github.com/kaixin168sxz/KaixinPackage'
 EMAIL = 'kaixin168KX@16.com'
 AUTHOR = 'SongXinZhe'
-REQUIRES_PYTHON = '>=3.8.0'
-VERSION = '2.1.0'
+REQUIRES_PYTHON = '>=3.7.0'
+VERSION = '1.0.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
