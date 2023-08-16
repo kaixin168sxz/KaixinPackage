@@ -1,4 +1,4 @@
-# **KaixinPackage2.1**
+# **KaixinPackage1.0.0**
 
 > **此模块仅使用Windows系统进行测试过，*其它平台报错或无效属于正常现象***
 
